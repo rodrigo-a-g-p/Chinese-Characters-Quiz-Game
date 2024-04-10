@@ -1,0 +1,156 @@
+*,
+*::before,
+*::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --bg-linear-gradient: linear-gradient(
+    to right bottom,
+    rgba(238, 28, 37, 0.5),
+    rgba(255, 255, 0, 0.5)
+  );
+  --title-linear-gradient: linear-gradient(
+    90deg,
+    transparent 0%,
+    transparent 50%,
+    rgba(238, 28, 37, 0.8) 50%
+  );
+  --nav-container-bg-color: rgba(253, 242, 233, 0.8);
+  --clicked-button-bg-color: rgba(254, 244, 150, 1);
+  --correct-button-bg-color: rgba(105, 172, 84, 1);
+  --wrong-button-bg-color: rgba(201, 119, 128, 1);
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  background-image: var(--bg-linear-gradient), url(../images/mao.jpeg);
+  background-size: cover;
+  background-position: top;
+  background-attachment: fixed;
+}
+
+/* --------------- Navigation ---------------- */
+.nav--container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 5rem;
+  padding: 2rem 4rem;
+  background-color: var(--nav-container-bg-color);
+}
+
+.nav--title {
+  font-size: 3rem;
+  background-size: 220%;
+  background-image: var(--title-linear-gradient);
+  background-clip: text;
+  transition: all 0.3s;
+}
+
+.nav--title:hover {
+  background-position: 100%;
+  color: transparent;
+}
+
+.container--settings {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4rem;
+  font-size: 3rem;
+}
+
+.container--level {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 3rem;
+}
+
+.btn--level:link,
+.btn--level:visited,
+.btn--audio:link,
+.btn--audio:visited {
+  display: inline-block;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #333;
+  font-weight: 500;
+  font-size: 2rem;
+  transition: all 0.3s;
+}
+
+.btn--level:hover,
+.btn--level:active,
+.btn--audio:hover,
+.btn--audio:active {
+  color: #cf711f;
+}
+
+/* --------------- Game ---------------- */
+
+.container--game {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 3rem;
+  padding: 3rem;
+}
+
+.container--hanzi,
+.container--pinyin {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  align-items: center;
+
+  gap: 1rem;
+  padding: 1rem;
+  border-radius: 0.5rem;
+  background-color: rgba(128, 128, 128, 0.8);
+}
+
+.btn--word:link,
+.btn--word:visited {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  text-decoration: none;
+  color: #000;
+  background-color: #fff;
+
+  font-weight: 300;
+  font-size: 2.5rem;
+  padding: 1rem;
+  border-radius: 0.3rem;
+  box-shadow: 0 0 1rem #000;
+  transition: all 0.5s;
+}
+
+/* --------------- Helper Styles ---------------- */
+
+.hide-element {
+  opacity: 0;
+  pointer-events: none;
+  visibility: hidden;
+}
+
+.btn--clicked:link,
+.btn--clicked:visited {
+  background-color: var(--clicked-button-bg-color) !important;
+}
+
+.btn--correct:link,
+.btn--correct:visited {
+  background-color: var(--correct-button-bg-color) !important;
+  color: #fff;
+  pointer-events: none;
+}

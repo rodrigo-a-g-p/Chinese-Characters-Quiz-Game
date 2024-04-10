@@ -1,0 +1,31 @@
+
+doctype html
+html
+  head
+    meta(charset='UTF-8')
+    meta(name='viewport' content='width=device-width, initial-scale=1.0')
+    title= title
+    link(rel="icon" type="image/x-icon" href="/images/china-flag.png")
+    link(rel='stylesheet' href='/css/styles.css')
+    script(defer type="module" src="/js/index.js")
+
+    //- Axios CDN
+    script(src='https://cdnjs.cloudflare.com/ajax/libs/axios/1.6.3/axios.min.js')
+  
+      
+  body(id="body")
+    .nav--container
+      h1(class='nav--title') Chinese Characters Quiz
+      .container--settings
+        p(class="nav--number")
+          span(class="nav--number--completed") -
+          | /
+          span(class="nav--number--total") -
+        a(class="btn--audio" href="#") audio
+        p(class="nav--time") 00:00:00
+      .container--level
+        each level in allLevels
+          a(class="btn--level" href="#")= level
+    div(class="container--game hide-element")
+      .container--pinyin
+      .container--hanzi
