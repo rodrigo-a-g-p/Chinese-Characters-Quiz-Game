@@ -43,6 +43,10 @@ const resetInterface = () => {
     })
   );
 
+  const textInstruction = document.querySelector(".text--instruction");
+  if (textInstruction) {
+    textInstruction.parentNode.removeChild(textInstruction);
+  }
   btnAudio.innerHTML = "pause audio";
   gameContainer.classList.remove("hide-element");
 };

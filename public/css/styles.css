@@ -12,6 +12,16 @@
     rgba(238, 28, 37, 0.5),
     rgba(255, 255, 0, 0.5)
   );
+  --beiyang-government-flag-linear-gradient: linear-gradient(
+    45deg,
+    transparent 0%,
+    transparent 50%,
+    rgba(223, 27, 18, 1) 60%,
+    rgba(255, 198, 0, 1) 70%,
+    rgba(2, 99, 157, 1) 80%,
+    rgba(255, 255, 255, 1) 90%,
+    rgba(0, 0, 0, 1) 100%
+  );
   --title-linear-gradient: linear-gradient(
     90deg,
     transparent 0%,
@@ -33,6 +43,7 @@ body {
   background-size: cover;
   background-position: top;
   background-attachment: fixed;
+  position: relative;
 }
 
 /* --------------- Navigation ---------------- */
@@ -93,6 +104,28 @@ body {
 .btn--audio:hover,
 .btn--audio:active {
   color: #cf711f;
+}
+
+.text--instruction {
+  background-image: var(--beiyang-government-flag-linear-gradient);
+  background-size: 220%;
+  background-clip: text;
+
+  position: absolute;
+  left: 50%;
+  top: 50vh;
+  transform: translate(-50%, -50%);
+
+  text-transform: uppercase;
+  text-align: center;
+  font-size: 4rem;
+  font-weight: 700;
+  transition: all 0.3s;
+}
+
+.text--instruction:hover {
+  background-position: 100%;
+  color: transparent;
 }
 
 /* --------------- Game ---------------- */
