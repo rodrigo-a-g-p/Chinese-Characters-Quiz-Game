@@ -1,14 +1,26 @@
+import { envMetaTag } from "./htmlElements.js";
+
 export const getData = async (urlSegment) => {
   try {
     const res = await axios({
       method: "get",
-      url: `http://127.0.0.1:3000/api/data/${urlSegment}`,
+      url: getBackendUrl(`/api/data/${urlSegment}`),
     });
 
     return res.data.result;
   } catch (err) {
     console.log(err.message);
   }
+};
+
+const getBackendUrl = (url) => {
+  // If we are using localhost, the NODE_ENV will be development, and, as such, we will need localhost url segment to access the backend
+  // This website will be hosted on a server, which means the website will not be hosted in localhost anymore, and, as such, if we want to make an API Call to the backend, we cannot have the locahost segment
+  // This works because when our website is hosted, the frontend and the backend will be hosted in he same domain, so the frontend can simply call the url that it receives in this function to make an API Call to the backend
+  if (envMetaTag["content"] === "development") {
+    url = `http://127.0.0.1:3000${url}`;
+  }
+  return url;
 };
 
 export const createButton = (buttonInnerHTML, buttonClasses, parentElement) => {

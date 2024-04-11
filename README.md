@@ -13,7 +13,7 @@ If you want to run this project locally, after git cloning the project, you must
 - Option 1)
 
   - run 'npm install'
-  - run 'npm run start'
+  - run 'npm run start:dev'
 
 - Option 2)
   - run 'npm install -g nodemon'

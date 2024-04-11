@@ -9,3 +9,7 @@ export const numberCompletedElement = document.querySelector(
 export const numberTotalElement = document.querySelector(".nav--number--total");
 export const btnAudio = document.querySelector(".btn--audio");
 export const timeEl = document.querySelector(".nav--time");
+
+export const envMetaTag = [...document.getElementsByTagName("meta")].find(
+  (el) => el.name === "environment"
+);

@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server.js"
+    "start:dev": "nodemon server.js",
+    "start:prod": "NODE_ENV=production nodemon server.js"
   },
   "author": "",
   "license": "ISC",
@@ -12,6 +13,7 @@
     "axios": "^1.6.8",
     "body-parser": "^1.20.2",
     "csv-string": "^4.1.1",
+    "dotenv": "^16.4.5",
     "express": "^4.18.3",
     "pug": "^3.0.2"
   }
