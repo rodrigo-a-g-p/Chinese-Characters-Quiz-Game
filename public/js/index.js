@@ -117,10 +117,7 @@ const startTimer = () => {
     clearInterval(countTime);
   }
 
-  const timer = new Date();
-  timer.setSeconds(0);
-  timer.setMinutes(0);
-  timer.setHours(0);
+  const timer = new Date("1970-01-01T00:00:00");
 
   countTime = setInterval(() => {
     renderTimer(timer, timeEl);
