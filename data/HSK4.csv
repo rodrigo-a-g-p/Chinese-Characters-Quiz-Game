@@ -38,6 +38,7 @@ Hanzi,Pinyin
 大部分,dàbùfèn
 擦,cā
 猜,cāi
+猜出来,cāichūlái
 材料,cáiliào
 参观,cānguān
 餐厅,cāntīng
@@ -107,6 +108,8 @@ Hanzi,Pinyin
 地址,dìzhǐ
 掉,diào
 调查,diàochá
+检查,jiǎnchá
+查,chá
 丢,diū
 动作,dòngzuò
 堵车,dǔchē
@@ -231,6 +234,7 @@ Hanzi,Pinyin
 价钱,jiàqián
 坚持,jiānchí
 减肥,jiǎnféi
+减轻,jiǎnqīng
 减少,jiǎnshǎo
 建议,jiànyì
 将来,jiānglái
@@ -488,6 +492,7 @@ Hanzi,Pinyin
 提前,tíqián
 提早,tízǎo
 提醒,tíxǐng
+填,tián
 填空,tiánkòng
 条件,tiáojiàn
 停,tíng
@@ -513,6 +518,8 @@ Hanzi,Pinyin
 无,wú
 无聊,wúliáo
 无论,wúlùn
+无论如何,wúlùn rúhé
+无论... + question word + 都/也/还...,wúlùn... + question word + dōu/yě/hái...
 误会,wùhuì
 吸引,xīyǐn
 西红柿,xīhóngshì
@@ -559,6 +566,7 @@ Hanzi,Pinyin
 演员,yǎnyuán
 眼镜,yǎnjìng
 阳光,yángguāng
+养,yǎng
 养成,yǎngchéng
 样子,yàngzi
 邀请,yāoqǐng
@@ -830,3 +838,17 @@ A 跟 B 比, A gēn B bǐ
 道路,dàolù
 拿...来说,ná...láishuō
 有效,yǒuxiào
+词典,cídiǎn
+字典,zìdiǎn
+笔记本,bǐjìběn
+本子,běnzi
+打开,dǎkāi
+non-action verb + 起来, non-action verb + qǐlái
+书本,shūběn
+说话没有内容,shuōhuà méiyǒu nèiróng
+无限,wúxiàn
+有限,yǒuxiàn
+情感,qínggǎn
+样,yàng
+...的时候,...de shíhòu
+...的同时,...de tóngshí
