@@ -42,7 +42,10 @@ Hanzi,Pinyin
 材料,cáiliào
 参观,cānguān
 餐厅,cāntīng
+餐,cān
 厕所,cèsuǒ
+上厕所,shàng cèsuǒ
+去厕所,qù cèsuǒ
 差不多,chàbuduō
 尝,cháng
 长城,chángchéng
@@ -190,6 +193,7 @@ A 对于 B 来说,A duìyú B láishuō
 海洋,hǎiyáng
 害羞,hàixiū
 寒假,hánjià
+寒冷,Hánlěng
 汗,hàn
 流汗,liúhàn
 汗水,hànshuǐ
@@ -235,7 +239,8 @@ A 对于 B 来说,A duìyú B láishuō
 油,yóu
 家具,jiājù
 具,jù
-假,jiǎ
+假,jiǎ/jià
+假话,jiǎhuà
 价格,jiàgé
 价钱,jiàqián
 坚持,jiānchí
@@ -397,8 +402,13 @@ A 对于 B 来说,A duìyú B láishuō
 其中,qízhōng
 气候,qìhòu
 千万,qiānwàn
+千万要,qiānwànyào
+千万不要,qiānwànbùyào
+千万别,qiānwànbié
 签证,qiānzhèng
 敲,qiāo
+敲门,qiāomén
+敲打,qiāodǎ
 桥,qiáo
 巧克力,qiǎokèlì
 亲戚,qīnqi
@@ -488,11 +498,14 @@ A 对于 B 来说,A duìyú B láishuō
 随便,suíbiàn
 随着,suízhe
 孙子,sūnzi
+孙女,sūnnǚ
 所有,suǒyǒu
 台,tái
 抬,tái
 态度,tàidu
 弹钢琴,tángāngqín
+弹,tán
+钢琴,gāngqín
 谈,tán
 谈生意,tán shēngyì
 谈成生意,tán chéng shēngyì
@@ -924,3 +937,27 @@ verb + 个不停,verb + gè bù tíng
 饭盒,fànhé
 抬起头,tái qǐ tóu
 取名,qǔmíng
+吉他,jítā
+闹钟,nàozhōng
+响,xiǎng
+赶时间,gǎnshíjiān
+赶不及,gǎnbují
+赶得及,gǎndéjí
+跳,tiào
+情绪,qíngxù
+替,tì
+过 + adjective,guò + adjective
+太过 + adjective,tàiguò + adjective
+过多,guòduō
+过大,guòdà
+过累,guòlèi
+积极性,jījíxìng
+性,xìng
+好动,hǎodòng
+verb + 不住,verb + bùzhù
+坐不住,zuò bùzhù
+请客,qǐngkè
+一定的,yīdìngde
+person + 来 + to do something,person + lái + to do something
+停车,tíngchē
+急事,jíshì
