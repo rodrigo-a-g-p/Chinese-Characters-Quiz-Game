@@ -34,7 +34,7 @@ Hanzi,Pinyin
 不管,bùguǎn
 不仅,bùjǐn
 不但,bùdàn
-部分,bùfen
+部分,bùfèn
 大部分,dàbùfèn
 擦,cā
 猜,cāi
@@ -106,6 +106,7 @@ Hanzi,Pinyin
 等,děng
 低,dī
 底,dǐ
+底部,dǐbù
 地点,dìdiǎn
 地球,dìqiú
 地址,dìzhǐ
@@ -191,6 +192,7 @@ A 对于 B 来说,A duìyú B láishuō
 果汁,guǒzhī
 过程,guòchéng
 海洋,hǎiyáng
+海,hǎi
 害羞,hàixiū
 寒假,hánjià
 寒冷,Hánlěng
@@ -348,9 +350,9 @@ A 对于 B 来说,A duìyú B láishuō
 乱,luàn
 律师,lǜshī
 麻烦,máfan
-马虎,mǎhu
+马虎,mǎhǔ
 马,mǎ
-虎,hu
+虎,hǔ
 满,mǎn
 毛,máo
 毛巾,máojīn
@@ -436,6 +438,7 @@ A 对于 B 来说,A duìyú B láishuō
 仍然,réngrán
 日记,rìjì
 入口,rùkǒu
+入,rù
 门口,ménkǒu
 散步,sànbù
 森林,sēnlín
@@ -454,6 +457,7 @@ A 对于 B 来说,A duìyú B láishuō
 生意,shēngyì
 省,shěng
 剩,shèng
+剩下,shèngxià
 失败,shībài
 失望,shīwàng
 师傅,shīfu
@@ -546,6 +550,7 @@ A 对于 B 来说,A duìyú B láishuō
 卫生间,wèishēngjiān
 味道,wèidào
 温度,wēndù
+气温,qìwēn
 文章,wénzhāng
 污染,wūrǎn
 无,wú
@@ -584,6 +589,7 @@ A 对于 B 来说,A duìyú B láishuō
 性别,xìngbié
 性格,xìnggé
 修理,xiūlǐ
+细,xì
 许多,xǔduō
 学期,xuéqī
 呀,ya
@@ -988,3 +994,42 @@ person + 来 + to do something,person + lái + to do something
 撞,zhuàng
 情人,qíngrén
 拿...来说,ná...láishuō
+改天,gǎitiān
+宝宝,bǎobǎo
+...(这么)一 + verb,...(zhème)yī + verb
+模特儿,mótèer
+暑假,shǔjià
+本,běn
+本 + noun,běn + noun
+本人,běn rén
+本公司,běn gōngsī
+处,chù
+noun + 处,noun + chù
+入口处,rùkǒu chù
+出口处,chūkǒu chù
+noun + 之一,noun + zhīyī
+赶上,gǎnshàng
+儿童节,értóng jié
+身子,shēnzi
+全,quán
+作为,zuòwéi
+把...作为,bǎ...zuòwéi
+水分,shuǐfèn
+竞争能力,jìngzhēng nénglì
+有/没有竞争(能)力,yǒu/méiyǒu jìngzhēng (néng)lì
+市场,shìchǎng
+木,mù
+美人鱼,měirényú
+书桌,shūzhuō
+梦到/梦见,mèng dào/mèng jiàn
+只不过,zhǐ bùguò
+一个个,yīgègè
+报道,bàodào
+湿,shī
+老家,lǎojiā
+墙,qiáng
+吵,chǎo
+算了,suànle
+新手,xīnshǒu
+通,tōng
+通往,tōngwǎng
