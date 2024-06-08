@@ -61,7 +61,11 @@ Hanzi,Pinyin
 诚实,chéngshí
 吃惊,chījīng
 重新,chóngxīn
+抽,chōu
 抽烟,chōuyān
+抽奖,chōujiǎng
+抽时间,chōushíjiān
+抽空,chōukōng
 出差,chūchāi
 出发,chūfā
 出生,chūshēng
@@ -128,6 +132,7 @@ verb + 掉,verb + diào
 A 对于 B 来说,A duìyú B láishuō
 儿童,értóng
 而,ér
+发出,fāchū
 发生,fāshēng
 发展,fāzhǎn
 法律,fǎlǜ
@@ -330,6 +335,7 @@ A 对于 B 来说,A duìyú B láishuō
 老虎,lǎohǔ
 冷静,lěngjìng
 理发,lǐfà
+理发店,lǐfàdiàn
 理解,lǐjiě
 理想,lǐxiǎng
 礼拜天,lǐbàitiān
@@ -620,6 +626,7 @@ A 对于 B 来说,A duìyú B láishuō
 叶子,yèzi
 页,yè
 一切,yīqiè
+切,qiè
 以,yǐ
 以为,yǐwéi
 意见,yìjiàn
@@ -645,6 +652,7 @@ A 对于 B 来说,A duìyú B láishuō
 于是,yúshì
 愉快,yúkuài
 与,yǔ
+羽毛,yǔmáo
 羽毛球,yǔmáoqiú
 语,yǔ
 语法,yǔfǎ
@@ -666,6 +674,7 @@ A 对于 B 来说,A duìyú B láishuō
 增加,zēngjiā
 增,zēng
 占线,zhànxiàn
+占,zhàn
 招聘,zhāopìn
 照,zhào
 真正,zhēnzhèng
@@ -1074,3 +1083,35 @@ something + 之所以...是...,something + zhī suǒyǐ...shì...
 成熟,chéngshú
 研讨会,yán tǎo huì
 verb 着 verb 着, verb zhe verb zhe
+verb + 走,verb + zǒu
+拿走,ná zǒu
+口袋,kǒudài
+包起来,bāoqǐlái
+verb + 不上, verb + bùshàng
+舞蹈,wǔdǎo
+舞,wǔ
+碰,pèng
+A 跟/和/与 B 无关,A gēn/hé/yǔ B wúguān
+A 跟/和/与 B 没有关系,A gēn/hé/yǔ B méiyǒu guānxì
+没多久,méiduōjiǔ
+位子,wèizi
+路过,lùguò
+区,qū
+小区,xiǎoqū
+过期,guòqí
+到期,dàoqí
+期,qí
+总的来说,zǒng de lái shuō
+套,tào
+记下,jìxià
+在于,zàiyú
+运气,yùnqì
+体育馆,tǐyùguǎn
+体育场,tǐyùchǎng
+发球,fāqiú
+走动,zǒudòng
+连忙,liánmáng
+步,bù
+脚步,jiǎobù
+年底,niándǐ
+月底,yuèdǐ
