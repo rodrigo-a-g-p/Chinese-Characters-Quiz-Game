@@ -5,6 +5,7 @@ export const allData = {
   HSK2: await getData("csv-data/HSK2"),
   HSK3: await getData("csv-data/HSK3"),
   HSK4: await getData("csv-data/HSK4"),
+  HSK5: await getData("csv-data/HSK5"),
   ALL: await getData("csv-data/ALL"),
 };
 
