@@ -331,6 +331,7 @@ Hanzi,Pinyin
 公主,gōngzhǔ
 功能,gōngnéng
 工厂,gōngchǎng
+工程,gōngchéng
 工程师,gōngchéngshī
 工具,gōngjù
 工人,gōngrén
@@ -368,7 +369,7 @@ Hanzi,Pinyin
 广泛,guǎngfàn
 归纳,guīnà
 规矩,guīju
-规律,guīlv4
+规律,guīlǜ
 规模,guīmó
 规则,guīzé
 柜台,guìtái
@@ -448,7 +449,7 @@ Hanzi,Pinyin
 寂寞,jìmò
 系领带,jìlǐngdài
 纪录,jìlù
-纪律,jìlv4
+纪律,jìlǜ
 纪念,jìniàn
 计算,jìsuàn
 记录,jìlù
@@ -1105,7 +1106,7 @@ Hanzi,Pinyin
 依然,yīrán
 一辈子,yíbèizi
 一旦,yídàn
-一律,yílv4
+一律,yílǜ
 一再,yízài
 一致,yízhì
 疑问,yíwèn
@@ -1332,3 +1333,687 @@ Hanzi,Pinyin
 早已,zǎoyǐ
 放弃,fàngqì
 地址,dìzhǐ
+答谢宴会,dáxiè yànhuì
+宴请,yànqǐng
+加强,jiāqiáng
+设宴招待,shè yàn zhāodài
+招待客人,zhāodài kèrén
+招待所,zhāodài suǒ
+记者招待会,jìzhě zhāodài huì
+记者,jìzhě
+愉快,yúkuài
+结束,jiéshù
+祝,zhù
+商业区,shāngyè qū
+区,qū
+判断,pànduàn
+举行,jǔxíng
+举办,jǔbàn
+举行谈判,jǔxíng tánpàn
+送行,sòngxíng
+老/老是 + doing something,lǎo/lǎoshì + doing something
+埋怨,mányuàn
+劝告,quàngào
+建议,jiànyì
+如此,rúcǐ
+惦记,diànjì
+厌恶,yànwù
+恶意,eyì
+厌恶意,yànwùyì
+副,fù
+含,hán
+出差,chūchāi
+差,chāi
+我们家那位,wǒmen jiā nà wèi
+我们家那口子,wǒmen jiā nà kǒuzi
+成度,chéngdù
+行政,xíngzhèng
+政,zhèng
+基,jī
+基础,jīchǔ
+打好基础,dǎ hǎo jīchǔ
+层,céng
+基层单位,jīcéng dānwèi
+懒,lǎn
+懒得,lǎndé
+不愿意,bùyuànyì
+愿意,yuànyì
+厌烦,yànfán
+发懒,fā lǎn
+晚点,wǎndiǎn (late/behind schedule)
+早点,zǎodiǎn (early/breakfast)
+早点儿,zǎodiǎner
+提前,tíqián
+提早,tízǎo
+到达,dàodá (arrive)
+达到,dádào (achieve)
+降落,jiàngluò
+降,jiàng
+落,luò
+降落伞,jiàngluò sǎn
+降雨,jiàngyǔ
+降价,jiàngjià
+许多,xǔduō
+品,pǐn
+价格/价钱,jiàgé/jiàqián
+名落孙山,míng luò sūnshān
+甘,gān
+不甘落后,bù gān luòhòu
+落后地区,luòhòu dìqū
+井,jǐng
+石,shí
+落井下石,luò jǐng xià shí
+落水狗,luò shuǐ gǒu
+失败,shībài
+落汤鸡,luòtāngjī
+汤,tāng
+晚一点,wǎn yīdiǎn (in a short moment)
+一点晚,yīdiǎn wǎn (a little late)
+订,dìng
+条约,tiáoyuē
+合,hé
+订条约,dìng tiáoyuē
+订合同,dìng hétong
+订报纸,dìng bàozhǐ
+酒席,jiǔxí
+订一桌酒席,dìng yī zhuō jiǔxí
+订票,dìng piào
+订单,dìngdān
+订购,dìnggòu
+户,hù
+订户,dìnghù
+订婚,dìnghūn
+定,dìng
+计划,jìhuà
+定计划,dìng jìhuà
+定时间,sìng shíjiān
+神,shén
+心神不定,xīnshén bùdìng
+定案,dìng'àn
+定价,dìng jià
+金钱,jīnqián
+定金,dìngjīn
+居,jū
+定居,dìngjū
+定居点,dìngjūdiǎn
+定期,dìngqí
+炸弹,zhàdàn
+定时炸弹,dìngshí zhàdàn
+罪,zuì
+定罪,dìngzuì
+定做,dìngzuò
+调研,diàoyán
+调查,diàochá
+研究,yánjiū
+可行性,kěxíngxìng
+研究生,yánjiūshēng
+研究员,yánjiùyuán
+研究所,yánjiūsuǒ
+向上级报告,xiàng shàngjí bàogào
+总结,zǒngjié
+旬,xún
+上旬,shàngxún
+下旬,xiàxún
+初旬,chūxún
+询,xún
+查询,cháxún
+查询电话,cháxún diànhuà
+初,chū
+初年,chū nián
+年初,nián chū
+初冬,chū dōng
+恋,liàn
+初恋,chū liàn
+初露锋芒,chū lù fēng máng
+初露头角,chū lù tóu jiǎo
+犊,dú
+初生之犊,chū shēng zhī dú
+畏,wèi
+初生之犊不畏虎,chū shēng zhī dú bù wèi hǔ
+底,dǐ
+海底,hǎidǐ
+年底,niándǐ
+月底,yuèdǐ
+医,yī
+护士,hùshi
+美容手术,měiróng shǒushù
+动手术,dòng shǒushù
+大概,dàgài
+友好,yǒuhǎo
+责备语气,zébèi yǔqì
+夸奖,kuājiǎng
+表扬,biǎoyáng
+洗澡,xǐzǎo
+卡通片,kǎtōngpiàn
+动作片,dòngzuòpiàn
+洗衣机,xǐyījī
+机会,jīhuì
+载,zǎi
+千载一时,qiān zǎi yī shí
+放过,fàngguò
+来之不易,lái zhī bù yì
+来的不容易,lái de bù róngyì
+把,bǎ
+握,wò
+掌,zhǎng
+刀,dāo
+自信,zìxìn
+自信心,zìxìnxīn
+信心,xìnxīn
+有信心,yǒuxìnxīn
+鼓,gǔ
+鼓励,gǔlì
+十分,shífēn
+极,jí
+极了,jíle
+严格,yángé
+严重,yánzhòng
+农,nóng
+农产品,nóng chǎnpǐn
+畜,xù
+畜产品,xù chǎnpǐn
+副产品,fù chǎnpǐn
+优质产品,yōu zhí chǎnpǐn
+质量,zhìliàng
+善,shàn
+党,dǎng
+政党,zhèngdǎng
+策,cè
+政策,zhèngcè
+政权,zhèngquán
+广告,guǎnggào
+广告宣传,guǎnggào xuānchuán
+规定,guīdìng
+交通,jiāotōng
+大量,dàliàng
+数量,shùliàng
+情报,qíngbào
+财,fù
+财富,cáifù
+生意,shēngyì
+开发商,kāifā shāng
+智,zhì
+智力,zhìlì
+开发智力,kāifā zhìlì
+提,tí
+醒,xǐng
+伤,shāng
+伤心,shāngxīn
+惟,wéi
+惟恐,wéikǒng
+恐怕,kǒngpà
+否则,fǒuzé
+差点儿,chàdiǎn er
+四川,sìchuān
+四川省,sìchuān shěng
+省,shěng
+节约,jiéyuē
+川,chuān
+山川,shānchuān
+河,hé
+川流不息,chuān liú bù xī
+流,liú
+四川有天府之国之称,sìchuān yǒu tiānfǔ zhī guó zhī chēng
+府,fǔ
+称,chēng
+川菜,chuāncài
+荤,hūn
+荤菜,hūncài
+素,sù
+素菜,sùcài
+(可)不是吃素的,(kě) bù shì chī sù de
+活干,huó gàn
+干,gàn/gān
+奇怪,qíguài
+怪,guài
+闷,mèn
+顾客,gùkè
+味道,wèidào
+怪物,guàiwù
+妖,yāo
+妖怪,yāoguài
+往往,wǎngwǎng
+往常,wǎngcháng
+专,zhuān
+专长,zhuāncháng
+发挥专长,fāhuī zhuāncháng
+水平,shuǐpíng
+生活水平,shēnghuó shuǐpíng
+水平不相上下,shuǐpíng bù xiāng shàng xià
+失,shī
+失望,shīwàng
+失掉,shīdiào
+失掉信心,shīdiào xìnxīn
+掉,diào
+verb + 掉,verb + diào
+牌,pái
+金牌,jīnpái
+银牌,yínpái
+铜牌,tóngpái
+奖牌,jiǎngpái
+观点,guāndiǎn
+观众,guānzhòng
+参观,cānguān
+持,chí
+支持,zhīchí
+坚持,jiānchí
+争,zhēng
+取,qǔ
+选票,xuǎnpiào
+被动,bèidòng
+牌子,páizi
+招牌,zhāopái
+招牌菜,zhāopái cài
+论点,lùndiǎn
+职,zhí
+职业,zhíyè
+辞职信,cízhí xìn
+只好,zhǐhǎo
+撤,chè
+撤职,chèzhí
+称职,chènzhí
+退休工人,tuìxiū gōngrén
+退休年龄,tuìxiū niánlíng
+辞退,cítuì
+退后,tuìhòu
+岗位,gǎngwèi
+以为,yǐwéi
+不以为然,bù yǐwéi rán
+自以为,zì yǐwéi
+自以为是,zì yǐwéi shì
+别提了,bié tí le
+旧,jiù
+旧事重提,jiù shì chóng tí
+本来,běnlái
+原来,yuánlái
+面貌,miànmào
+礼貌,lǐmào
+本来的面貌,běnlái de miànmào
+航班,hángbān
+班机,bānjī
+禁令,jìnlìng
+禁止,jìnzhǐ
+消息,xiāoxi
+野餐,yěcān
+罢,bà
+作罢,zuòbà
+赶,gǎn
+赶时间,gǎnshíjiān
+赶不及,gǎnbují
+赶得及,gǎndéjí
+赶上,gǎnshàng
+先进,xiānjìn
+紧,jǐn
+紧张,jǐnzhāng
+连,lián
+赶得上,gǎn dé shàng
+赶不上,gǎn bu shàng
+流行,liúxíng
+支歌,zhīgē
+受欢迎,shòu huānyíng
+剪,jiǎn
+剪发,jiǎn fǎ
+剪羊毛,jiǎn yáng máo
+毕业设计,bìyè shèjì
+设计师,shèjìshī
+服装设计师,fúzhuāng shèjìshī
+室内,shìnèi
+室外,shìwài
+室内设计师,shìnèi shèjìshī
+做什么的,zuò shénme de
+管理,guǎnlǐ
+理发,lǐfà
+理发店,lǐfà diàn
+理发师,lǐfǎ shī
+型,xíng
+发型,fǎxíng
+美发,měifǎ
+美发师,měifǎ shī
+染,rǎn
+染发,rǎnfǎ
+污染,wūrǎn
+短发,duǎnfǎ
+长发,zhǎngfā
+长发飘飘,zhǎngfā piāopiāo
+歌曲,gēqǔ
+禽,qín
+禽流感,qín liú gǎn
+指,zhǐ
+指甲,zhǐjiǎ
+剪指甲,jiǎn zhǐjiǎ
+指出来,zhǐ chūlái
+算,suàn
+算了,suànle
+营养不良,yíngyǎng bù liáng
+良,liáng
+营养丰富,yíngyǎng fēngfù
+跟不上,gēn bù shàng
+跟得上,gēn dé shàng
+认为,rènwéi
+户外,hùwài
+算一算,suàn yī suàn
+计算机,jìsuàn jī
+计算器,jìsuàn qì
+器,qì
+怎么行,zěnme xíng
+怎么办,zěnme bàn
+确实,quèshí
+实在,shízài
+准确,zhǔnquè
+正确,zhèngquè
+挺好,tǐng hǎo
+挺胸,tǐng xiōng
+限,xiàn
+无限,wúxiàn
+有限,yǒuxiàn
+数量不限,shùliàng bù xiàn
+量,liàng
+批发价,pīfā jià
+零售价,língshòu jià
+处理,chǔlǐ
+处理价格,chǔlǐ jiàge
+优惠,yōuhuì
+优惠价格,yōuhuì jiàgé
+讲价钱,jiǎng jiàqián
+公道,gōngdào
+价钱公道,jiàqián gōngdào
+商量,shāngliang
+好商量,hǎo shāngliáng
+眠,mián
+安眠药,ānmiányào
+彻,chè
+彻夜不眠,chèyè bùmián
+睡眠,shuìmián
+足,zú
+睡眠不足,shuì mián bù zú
+催眠,cuīmián
+催眠曲,cuīmián qǔ
+中医,zhōngyī
+中药,zhōngyào
+西医,xīyī
+西药,xīyào
+前些日子,qián xiē rìzi
+颜色深不些,yánsè shēn bù xiē
+睡着,shuìzháo
+长眠,chángmián
+长眠地下,chángmián dìxià
+莫,mò
+及,jí
+后悔莫及,hòuhuǐ mò jí
+世上没有后悔药,shì shàng méiyǒu hòuhuǐ yào
+音响,yīnxiǎng
+音响效果,yīnxiǎng xiàoguǒ
+跟...没法儿比,gēn... méi fǎ er bǐ
+跟...有得比,gēn... yǒu dé bǐ
+应聘,yìngpìn
+学院,xuéyuàn
+执教,zhíjiào
+聘请,pìnqǐng
+招聘,zhāopìn
+聘,pìn
+聘专家,pìn zhuānjiā
+聘礼,pìnlǐ
+招,zhāo
+招工,zhāogōng
+招生,zhāoshēng
+招揽,zhāolǎn
+揽,lǎn
+真相,zhēnxiàng
+录,lù
+录用,lùyòng
+办理手续,bànlǐ shǒuxù
+业务能力,yèwù nénglì
+业务知识,yèwù zhīshì
+办理业务,bànlǐ yèwù
+存粮过冬,cún liáng guò dōng
+取款,qǔkuǎn
+取款机,qǔkuǎnjī
+款,kuǎn
+改动,gǎidòng
+稍加改动,shāo jiā gǎidòng
+电影院,diànyǐngyuàn
+寻思,xúnsi
+租,zū
+开发票,kāi fāpiào
+要发票,yào fāpiào
+电视台,diànshì tái
+排球,páiqiú
+打排球,dǎ páiqiú
+怪不得,guài bù dé
+猜测,cāicè
+谜语,míyǔ
+猜谜儿,cāi mèi er
+宝,bǎo
+获,huò
+获奖,huòjiǎng
+科技,kējì
+科技界,kējì jiè
+科技术语,kē jìshù yǔ
+精神鼓励,jīngshén gǔlì
+帮助我一把,bāngzhù wǒ yī bǎ
+无法,wúfǎ
+最高领导人,zuìgāo lǐngdǎo rén
+班主任,bān zhǔrèn
+串,chuàn
+一串,yī chuàn
+台阶,táijiē
+注意台阶,zhùyì táijiē
+到达,dàodá
+安全带,ānquándài
+安全帽,ānquánmào
+安全门,ānquánmén
+汽车,qìchē
+版,bǎn
+出版社,chūbǎn shè
+出版物,chūbǎn wù
+交班,jiāobān
+恐龙,kǒnglóng
+鼓起,gǔqǐ
+机智,jīzhì
+资金外流,zījīn wàiliú
+神情,shénqíng
+送别,sòngbié
+公共交通,gōnggòng jiāotōng
+公交,gōng jiāo
+麻辣豆腐,málà dòufu
+麻婆豆腐,má pó dòufu
+麻,má
+腿发麻,tuǐ fā má
+舌头,shétou
+舌头发麻,shétou fā má
+比赛项目,bǐsài xiàngmù
+麻木,mámù
+木,mù
+林,lín
+森,sēn
+森林,sēnlín
+滑冰,huábīng
+四周,sìzhōu
+出院,chūyuàn
+住院,zhùyuàn
+分享,fēnxiǎng
+香港,xiānggǎng
+到那个时候,dào nàgè shíhòu
+到时候,dào shíhòu
+参观游览,cānguān yóulǎn
+仅供参考,jǐn gōng cānkǎo
+参考书,cānkǎo shū
+度,dù
+挤,jǐ
+闲,xián
+闲聊,xiánliáo
+职工,zhígōng
+下岗职工,xià gǎng zhígōng
+双,shuān
+双职工,shuān gzhígōng
+茶具,chájù
+不是...就是...,bùshì... jiùshì...
+车间,chējiān
+实验室,shíyànshì
+合租房子,hé zū fángzi
+费,fèi
+房费,fáng fèi
+伴,bàn
+伴儿,bàn ér
+个不停,gèbùtíng
+严厉,yánlì
+睁大,zhēng dà
+感到意外,gǎndào yìwài
+防,fáng
+以防,yǐfáng
+以防意外,yǐfáng yìwài
+歉,qiàn
+歉意,qiànyì
+疼,téng
+疼痛,téngtòng
+表扬信,biǎoyángxìn
+表扬,biǎoyáng
+脑子,nǎozǐ
+愤怒,fènnù
+纠纷,jiūfēn
+垃圾箱,lājīxiāng
+垃圾堆,lājīduī
+土,tǔ
+乱扔垃圾,luànrēnglājī
+乱扔,luànrēng
+倒垃圾桶,dàolājītǒng
+垃圾分类,lājīfēnlèi
+类,lèi
+水桶,shuǐtǒng
+饭桶,fàntǒng
+十年内乱,shíniánnèiluàn
+罕见,hǎnjiàn
+乱丢,luàndiū
+罚金,fájīn
+罚,fá
+科以罚金,kēyǐfájīn
+罚单,fádān
+实行,shíxíng
+生育,shēngyù
+收效,shōuxiào
+街,jiē
+巡逻,xúnluó
+出主意,chūzhǔyì
+打主意,dǎzhǔyì
+打定主意,dǎdìngzhǔyì
+拿主意,názhǔyì
+拿不定主意,nábùdìngzhǔyì
+感应,gǎnyìng
+感应器,gǎnyìngqì
+电动,diàndòng
+播,bō
+播出,bōchū
+录音机,lùyīnjī
+不论,bùlùn
+因,yīn
+异,yì
+陋,lòu
+因人而异,yīnrénéryì
+因陋就简,yīnlòujiùjiǎn
+因...而...,yīn... ér...
+罚球,fáqiú
+赏,shǎng
+惩罚,chéngfá
+罚,fá
+边防,biānfáng
+边防巡逻,biānfáng xúnluó
+显示器,xiǎnshìqì
+机器人,jīqìrén
+为此,wèicǐ
+提出,tíchū
+录像机,lùxiàngjī
+沙,shā
+海滩,hǎitān
+滩,tān
+躺椅,tǎngyǐ
+半躺,bàntǎng
+头顶,tóudǐng
+屋顶,wūdǐng
+山顶,shāndǐng
+塔,tǎ
+塔顶,tǎdǐng
+嫩芽,nènyá
+医疗,yīliáo
+疗,liáo
+惬意,qièyì
+称心,chènxīn
+荫,yīn
+凉,liáng
+褐色,hésè
+铜器,tóngqì
+古,gǔ
+古铜色,gǔtóngsè
+争夺,zhēngduó
+晒得,shàidé
+衬托,chèntuō
+衬,chèn
+托,tuō
+对照,duìzhào
+下巴,xiàbā
+照射,zhàoshè
+射线,shèxiàn
+紫外线,zǐwàixiàn
+紫色,zǐsè
+动感,dònggǎn
+绘画,huìhuà
+雕刻,diāokè
+刻,kè
+文艺,wényì
+形,xíng
+如生,rúshēng
+塑像,sùxiàng
+栩栩如生,xǔxǔrúshēng
+栩,xǔ
+动感情,dònggǎnqíng
+活力,huólì
+充,chōng
+充电,chōngdiàn
+小姑娘,xiǎogūniáng
+姑娘,gūniáng
+对此,duìcǐ
+此,cǐ
+一点儿...也没有,yīdiǎner...yěméiyǒu
+头也不回,tóuyěbùhuí
+愚,yú
+笨,bèn
+愚笨,yúbèn
+愚人节,yúrénjié
+挡道,dǎngdào
+挡雨,dǎngyǔ
+矛,máo
+盾,dùn
+自相矛盾,zìxiāng máodùn
+毫,háo
+毫不,háobù
+果皮,guǒpí
+屑,xiè
+纪,jì
+深受感动,shēnshòu gǎndòng
+智叟,zhìsǒu
+叟,sǒu
+傻瓜,shǎguā
+闹笑话,nào xiàohuà
+闹,nào
+不移,bùyí
+移,yí
+起点,qǐdiǎn
+终点,zhōngdiǎn
+预知,yùzhī
+预先,yùxiān
+沿途,yántú
+辆,liàng
+行程,xíngchéng
+从容,cóngróng
+慌,huāng
+镇静,zhènjìng
+镇,zhèn
+沉,chén
+沉着,chénzhuó
+举止,jǔzhǐ
+迫,pò
+压迫,yāpò
+义,yì
+正义,zhèngyì
+畏缩,wèisuō
+缩,suō
+争议,zhēngyì
