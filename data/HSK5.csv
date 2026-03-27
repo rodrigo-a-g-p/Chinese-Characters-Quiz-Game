@@ -514,6 +514,7 @@ Hanzi,Pinyin
 谨慎,jǐnshèn
 尽力,jìnlì
 尽量,jìnliàng
+尽,jìn
 近代,jìndài
 进步,jìnbù
 进口,jìnkǒu
@@ -1050,7 +1051,8 @@ Hanzi,Pinyin
 小麦,xiǎomài
 小气,xiǎoqi
 孝顺,xiàoshun
-效率,xiàolv4
+效率,xiàolu
+效率,lu
 歇,xiē
 斜,xié
 写作,xiězuò
@@ -1721,6 +1723,7 @@ verb + 掉,verb + diào
 好商量,hǎo shāngliáng
 眠,mián
 安眠药,ānmiányào
+安眠,ānmián
 彻,chè
 彻夜不眠,chèyè bùmián
 睡眠,shuìmián
@@ -2017,3 +2020,124 @@ verb + 掉,verb + diào
 畏缩,wèisuō
 缩,suō
 争议,zhēngyì
+牺牲,xīshēng
+宽裕,kuānyù
+从容不迫,cóngróngbùpò
+讲台,jiǎngtái
+窘迫,jiǒngpò
+穷困,qióngkùn
+生计,shēngjì
+为难,wéinán
+处境,chǔjìng
+窘促,jiǒngcù
+困顿,kùndùn
+劳,láo
+终日,zhōngrì
+劳碌,láolù
+境遇,jìngyù
+漂泊,piāobó
+潦倒,liáodǎo
+艰难,jiānnán
+漂,piāo
+北京漂泊,běijīng piāobó
+北漂,běi piāo
+优雅,yōuyǎ
+致,zhì
+唱词,chàngcí
+动听,dòngtīng
+演奏,yǎnzòu
+奏,zòu
+宽敞,kuānchǎng
+大厅,dàtīng
+姿态,zītài
+姿,zī
+消耗,xiāohào
+细胞,xìbāo
+器官,qìguān
+减弱,jiǎnruò
+听觉,tīngjué
+疲于奔命,píyúbēnmìng
+逼迫,bīpò
+奔,bēn
+繁,fán
+繁多,fánduō
+亚,yà
+亚健康,yà jiànkāng
+患,huàn
+生理,shēnglǐ
+减退,jiǎntuì
+代谢,dàixiè
+健忘,jiànwàng
+腰背,yāobèi
+痛,tòng
+精疲力竭,jīng pí lì jié
+疲乏,pífá
+乏,fá
+倒楣,dǎoméi
+利,lì
+遭遇,zāoyù
+遭,zāo
+唯独,wéidú
+惟独,wéidú
+处于,chǔyú
+幸运儿,xìngyùn ér
+必不可少,bì bù kě shǎo
+毫无,háowú
+动静,dòngjìng
+别处,biéchù
+交谈,jiāotán
+百货公司,bǎihuò gōngsī
+体重,tǐzhòng
+秤,chèng
+电子秤,diànzǐ chèng
+过秤,guòchèng
+弹簧秤,tánhuáng chèng
+弹簧,tánhuáng
+求全责备,qiúquánzébèi
+责骂,zémà
+责问,zéwèn
+问责,wèn zé
+恨之入骨,hèn zhī rù gǔ
+人群,rénqún
+声讨,shēngtǎo
+侵略,qīnlüè
+侵略者,qīnlüèzhě
+罪行,zuìxíng
+悲,bēi
+责罚,zéfá
+怪罪,guàizuì
+指责,zhǐzé
+恼怒,nǎonù
+怒火,nùhuǒ
+怒吼,nùhǒu
+吼,hǒu
+狠,hěn
+制,zhì
+乐极生悲,lè jí shēng bēi
+提升,tíshēng
+提拔,tíbá
+拔,bá
+冬眠,dōngmián
+保质保量,bǎo zhí bǎo liàng
+质,zhì
+量,liàng
+气质,qìzhí
+酒量,jiǔliàng
+过量,guòliàng
+饮酒过量,yǐnjiǔ guòliàng
+量才录用,liàng cái lùyòng
+自不量力,zì bù liànglì
+量词,liàngcí
+较好,jiàohǎo
+入睡,rùshuì
+充沛,chōngpèi
+精,jīng
+闹情绪,nào qíngxù
+利于,lìyú
+弊,bì
+有利有弊,yǒu lì yǒu bì
+利己利人,lì jǐ lì rén
+不利,bùlì
+首战不利,shǒu zhàn bùlì
+利国利民,lì guó lì mín
+甜美,tiánměi
