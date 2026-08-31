@@ -21,4 +21,6 @@ If you want to run this project locally, after git cloning the project, you must
 
 After this, go to the specified port in your localhost address (should be port 3000).
 
+Alternatively, if you want to play it online, you can use [this link](https://chinese-characters-quiz-game.onrender.com/) (hopefully, it works).
+
 Cheers!
