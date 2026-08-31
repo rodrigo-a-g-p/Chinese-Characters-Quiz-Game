@@ -202,7 +202,6 @@ Hanzi,Pinyin
 导演,dǎoyǎn
 导致,dǎozhì
 岛屿,dǎoyǔ
-到达,dàodá
 道德,dàodé
 道理,dàolǐ
 登记,dēngjì
@@ -1056,7 +1055,6 @@ Hanzi,Pinyin
 小气,xiǎoqi
 孝顺,xiàoshun
 效率,xiàolu
-效率,lu
 歇,xiē
 斜,xié
 写作,xiězuò
@@ -1322,7 +1320,6 @@ Hanzi,Pinyin
 发表文章,fābiǎo wénzhāng
 发表声明,fābiǎo shēngmíng
 词语,cíyǔ
-账,zhàng
 情节,qíngjié
 师傅,shīfu
 接受,jiēshòu
@@ -1392,7 +1389,6 @@ Hanzi,Pinyin
 提前,tíqián
 提早,tízǎo
 到达,dàodá (arrive)
-达到,dádào (achieve)
 降落,jiàngluò
 降,jiàng
 落,luò
@@ -1561,7 +1557,6 @@ Hanzi,Pinyin
 流,liú
 四川有天府之国之称,sìchuān yǒu tiānfǔ zhī guó zhī chēng
 府,fǔ
-称,chēng
 川菜,chuāncài
 荤,hūn
 荤菜,hūncài
@@ -1597,12 +1592,10 @@ verb + 掉,verb + diào
 银牌,yínpái
 铜牌,tóngpái
 奖牌,jiǎngpái
-观点,guāndiǎn
 观众,guānzhòng
 参观,cānguān
 持,chí
 支持,zhīchí
-坚持,jiānchí
 争,zhēng
 取,qǔ
 选票,xuǎnpiào
@@ -1716,9 +1709,7 @@ verb + 掉,verb + diào
 量,liàng
 批发价,pīfā jià
 零售价,língshòu jià
-处理,chǔlǐ
 处理价格,chǔlǐ jiàge
-优惠,yōuhuì
 优惠价格,yōuhuì jiàgé
 讲价钱,jiǎng jiàqián
 公道,gōngdào
@@ -1786,7 +1777,6 @@ verb + 掉,verb + diào
 电视台,diànshì tái
 排球,páiqiú
 打排球,dǎ páiqiú
-怪不得,guài bù dé
 猜测,cāicè
 谜语,míyǔ
 猜谜儿,cāi mèi er
@@ -1803,9 +1793,7 @@ verb + 掉,verb + diào
 班主任,bān zhǔrèn
 串,chuàn
 一串,yī chuàn
-台阶,táijiē
 注意台阶,zhùyì táijiē
-到达,dàodá
 安全带,ānquándài
 安全帽,ānquánmào
 安全门,ānquánmén
@@ -1874,7 +1862,6 @@ verb + 掉,verb + diào
 疼,téng
 疼痛,téngtòng
 表扬信,biǎoyángxìn
-表扬,biǎoyáng
 脑子,nǎozǐ
 愤怒,fènnù
 纠纷,jiūfēn
@@ -1921,7 +1908,6 @@ verb + 掉,verb + diào
 罚球,fáqiú
 赏,shǎng
 惩罚,chéngfá
-罚,fá
 边防,biānfáng
 边防巡逻,biānfáng xúnluó
 显示器,xiǎnshìqì
@@ -1976,7 +1962,6 @@ verb + 掉,verb + diào
 充,chōng
 充电,chōngdiàn
 小姑娘,xiǎogūniáng
-姑娘,gūniáng
 对此,duìcǐ
 此,cǐ
 一点儿...也没有,yīdiǎner...yěméiyǒu
@@ -2124,7 +2109,6 @@ verb + 掉,verb + diào
 冬眠,dōngmián
 保质保量,bǎo zhí bǎo liàng
 质,zhì
-量,liàng
 气质,qìzhí
 酒量,jiǔliàng
 过量,guòliàng
@@ -2233,7 +2217,6 @@ verb + 掉,verb + diào
 界限,jièxiàn
 广,guǎng
 涉及,shèjí
-缩,suō
 缩小,suōxiǎo
 缩减,suōjiǎn
 军,jūn
@@ -2243,3 +2226,429 @@ verb + 掉,verb + diào
 中叶,zhōngyè
 直到,zhídào
 番茄,fānqié
+礼节,lǐjié
+旅馆,lǚguǎn
+布置,bùzhì
+晃,huàng
+晃动,huàngdòng
+晃荡,huàngdang
+荡,dang
+摇晃,yáohuàng
+浪,làng
+将,jiāng
+敲打,qiāodǎ
+敲锣打鼓,qiāo luó dǎgǔ
+锣,luó
+敲竹杠,qiāo zhú gàng
+指点,zhǐdiǎn
+暂时,zhànshí
+轻放,qīng fàng
+清理,qīnglǐ
+存货,cúnhuò
+停业,tíngyè
+清理存货暂时停业,qīnglǐ cúnhuò zhànshí tíngyè
+为好,wèi hǎo
+花瓶,huāpíng
+插花瓶,chā huāpíng
+插话,chā huà
+插曲,chāqǔ
+翅,chì
+插翅难飞,chā chì nán fēi
+插手,chāshǒu
+对付,duìfù
+插图,chātú
+插销,chāxiāo
+亲眼,qīnyǎn
+响声,xiǎngshēng
+桌面,zhuōmiàn
+鲨鱼,shāyú
+鳄鱼,èyú
+鲸鱼,jīngyú
+书籍,shūjí
+籍,jí
+古籍,gǔ jí
+国籍,guójí
+祖籍,zǔjí
+祖,zǔ
+祖国,zǔguó
+描述,miáoshù
+述,shù
+描绘,miáohuì
+绘,huì
+杀手,shāshǒu
+帮手,bāngshǒu
+歌手,gēshǒu
+打手,dǎshǒu
+枪手,qiāngshǒu
+扒手,páshǒu
+选手,xuǎnshǒu
+凶手,xiōngshǒu
+凶,xiōng
+凶猛,xiōngměng
+凶暴,xiōngbào
+凶残,xiōngcán
+残,cán
+凶多吉少,xiōng duō jí shǎo
+主义,zhǔyì
+恐怖,kǒngbù
+恐怖主义,kǒngbù zhǔyì
+恐怖分子,kǒngbù fènzǐ
+利诱,lìyòu
+威胁利诱,wēixié lìyòu
+益,yì
+匪浅,fěiqiǎn
+公益,gōngyì
+权益,quányì
+益虫,yì chóng
+虫,chóng
+益鸟,yì niǎo
+获益匪浅,huò yì fěiqiǎn
+自尊,zìzūn
+长期以来,chángqī yǐlái
+生物,shēngwù
+生物学,shēngwùxué
+科学家,kēxuéjiā
+无害,wúhài
+大白鲨,dàbáishā
+赞,zàn
+哈尔滨,hā'ěrbīn
+哈尔滨冰灯,hā'ěrbīn bīngdēng
+驰名,chímíng
+驰名中外,chímíng zhōngwài
+驰骋,chíchěng
+驰,chí
+大规模,dàguīmó
+宏,hóng
+规模宏大,guīmó hóngdà
+有组织,yǒu zǔzhī
+犯罪,fànzuì
+有组织犯罪,yǒu zǔzhī fànzuì
+始于,shǐyú
+秦始皇帝,qínshǐ huángdì
+千里之行始于足下,qiānlǐ zhī xíng shǐyú zúxià
+模具,mújù
+模样,múyàng
+一模一样,yìmúyíyàng
+铸,zhù
+盏,zhǎn
+酒盏,jiǔzhǎn
+自然,zìrán
+自然规律,zìrán guīlǜ
+自然风光,zìrán fēngguāng
+风光,fēngguāng
+淘汰,táotài
+自然淘汰,zìrán táotài
+代,dài
+相传,xiāngchuán
+佳节,jiājié
+佳,jiā
+佳人,jiārén
+欢度,huāndù
+每逢,měiféng
+逢,féng
+佳肴,jiāyáo
+轰动,hōngdòng
+轰,hōng
+元,yuán
+展出,zhǎnchū
+冷冻,lěngdòng
+余,yú
+又以,yòuyǐ
+特有,tèyǒu
+数十,shùshí
+地方性,dìfāngxìng
+不好意思,bù hǎoyìsi
+脸红,liǎnhóng
+想不到,xiǎng bu dào
+意想不到,yìxiǎng bu dào
+三心二意,sān xīn èr yì
+竟然,jìngrán
+宏伟,hóngwěi
+筑成,zhùchéng
+理解,lǐjiě
+理解力,lǐjiě lì
+阅读理解,yuèdú lǐjiě
+加深理解,jiāshēn lǐjiě
+碰运气,pèng yùnqi
+误会,wùhuì
+消除,xiāochú
+消除误会,xiāochú wùhuì
+误解,wùjiě
+难以,nányǐ
+肯定,kěndìng
+奖励,jiǎnglì
+荣誉,róngyù
+给予,jǐyǔ
+予,yǔ
+财物,cáiwù
+接收,jiēshōu
+好意,hǎoyì
+考虑,kǎolǜ
+积极,jījí
+引咎,yǐnjiù
+引咎辞职,yǐnjiù cízhí
+应聘者,yìngpìnzhě
+聘书,pìnshū
+曾,céng
+增加,zēngjiā
+肄,yì
+肄业,yìyè
+总编辑,zǒng biānjí
+编辑部,biānjí bù
+前者,qiánzhě
+后者,hòuzhě
+一流,yīliú
+出众,chūzhòng
+刊物,kānwù
+教科书,jiào kē shū
+古代文化,gǔdài wénhuà
+木兰,mùlán
+花木兰,huā mùlán
+女英雄,nǚ yīngxióng
+替代,tìdài
+替,tì
+侵,qīn
+入侵,rùqīn
+侵犯,qīnfàn
+侵略战争,qīnlüè zhànzhēng
+文化侵略,wénhuà qīnlüè
+侵入领海,qīnrù lǐng hǎi
+打败,dǎbài
+闻名,wénmíng
+举世闻名,jǔshì wénmíng
+远近闻名,yuǎn jìn wénmíng
+文艺复兴,wényì fùxīng
+复兴,fùxīng
+重拍,chóngpāi
+重新,chóngxīn
+拍摄,pāishè
+拍照,pāizhào
+拍电影,pāi diànyǐng
+重新开始,chóngxīn kāishǐ
+重新考虑,chóngxīn kǎolǜ
+朝代,cháodài
+唐朝,táng cháo
+改朝换代,gǎi cháo huàn dài
+辞,cí
+文辞,wéncí
+言辞,yáncí
+辞藻,cízǎo
+修辞,xiūcí
+体裁,tǐcái
+古体,gǔ tǐ
+记载,jìzǎi
+载入史册,zǎirù shǐcè
+军队,jūnduì
+剧,jù
+京剧,jīngjù
+电视剧,diànshì jù
+故乡,gùxiāng
+玻璃碴,bōli chā
+碴,chā
+瓶子,píngzi
+碎玻璃,suì bōli
+碎石,suì shí
+碎片,suìpiàn
+打碎,dǎsuì
+操碎了心,cāo suì le xīn
+零碎,língsuì
+零碎活儿,língsuì huór
+装行李,zhuāng xíngli
+太空,tàikōng
+沉积,chénjī
+沉淀,chéndiàn
+星沉月落,xīng chén yuè luò
+积,jī
+积少成多,jī shǎo chéng duō
+挤牛奶,jǐ niúnǎi
+挤牙膏,jǐ yágāo
+牙膏,yágāo
+挤满,jǐmǎn
+挤做一团,jǐ zuò yì tuán
+团结,tuánjié
+世界人民大团结万岁,shìjiè rénmín dà tuánjié wànsuì
+足够,zúgòu
+发展,fāzhǎn
+发展中国家,fāzhǎn zhōng guójiā
+发达国家,fādá guójiā
+奖金,jiǎngjīn
+挣钱,zhèng qián
+称为,chēng wéi
+称心如意,chènxīn rúyì
+如意,rúyì
+搁,gē
+英镑,yīng bàng
+磅,bàng
+重力,zhònglì
+宣布独立,xuānbù dúlì
+丢掉,diūdiào
+丢脸,diū liǎn
+丢三落四,diū sān là sì
+掌声,zhǎngshēng
+报以,bàoyǐ
+热情,rèqíng
+奔腾,bēnténg
+奔放,bēnfàng
+热情奔放,rèqíng bēnfàng
+激,jī
+激怒,jīnù
+欢呼,huānhū
+齐,qí
+齐声,qíshēng
+喝彩,hècǎi
+安慰奖,ānwèi jiǎng
+喊道,hǎndào
+陪,péi
+趟,tàng
+白跑一趟,bái pǎo yí tàng
+白跑,bái pǎo
+欠债,qiànzhài
+债务,zhàiwù
+债,zhài
+欠债还钱,qiànzhài huánqián
+摇头,yáo tóu
+口袋,kǒudài
+摇船,yáo chuán
+香味,xiāngwèi
+记账,jìzhàng
+算账,suànzhàng
+账目,zhàngmù
+亏,kuī
+争执,zhēngzhí
+较量,jiàoliàng
+棋,qí
+清楚,qīngchu
+解决,jiějué
+付,fù
+付账,fùzhàng
+付出,fùchū
+付款,fùkuǎn
+分期付款,fēnqī fùkuǎn
+付钱,fùqián
+哗,huā
+啦,lā
+响,xiǎng
+阿凡提,āfántí
+保罗,bǎoluó
+好久,hǎo jiǔ
+热闹,rènao
+一阵,yízhèn
+吃风,chīfēng
+兜,dōu
+兜风,dōufēng
+兜圈,dōuquān
+圈子,quānzi
+网兜儿,wǎngdōur
+手绢,shǒujuàn
+那不过是猜测,nà búguò shì cāicè
+猜忌,cāijì
+忌,jì
+猜疑,cāiyí
+怀疑,huáiyí
+疑,yí
+谜,mí
+猜拳,cāiquán
+猜想,cāixiǎng
+缓慢,huǎnmàn
+缓,huǎn
+进展,jìnzhǎn
+缓流,huǎnliú
+缓兵之计,huǎn bīng zhī jì
+盲,máng
+盲人,mángrén
+自动扶梯,zìdòng fútī
+要么,yàome
+患难,huànnàn
+患难之交,huànnàn zhī jiāo
+言外,yánwài
+切身体会,qièshēn tǐhuì
+切身,qièshēn
+赋予,fùyǔ
+点头,diǎntóu
+心想,xīnxiǎng
+仰慕,yǎngmù
+敬慕,jìngmù
+嫉妒,jídù
+羡慕嫉妒恨,xiànmù jídù hèn
+图画,túhuà
+国画,guóhuà
+噪音,zàoyīn
+精神饱满,jīngshén bǎomǎn
+按,àn
+按钮,àn niǔ
+电钮,diànniǔ
+门铃,ménlíng
+按响,ànxiǎng
+兴奋剂,xīngfènjì
+剂,jì
+弹琴,tán qín
+乱弹琴,luàn tán qín
+对牛弹琴,duì niú tán qín
+稀,xī
+稀里糊涂,xī li hútu
+塌,tā
+一塌糊涂,yì tā hútu
+架,jià
+家便,jiābiàn
+一直,yìzhí
+转,zhuǎn
+转身,zhuǎn shēn
+偶数,ǒu shù
+奇数,qī shù
+器材,qìcái
+健身房器材,jiànshēnfáng qìcái
+赔礼道歉,péilǐ dàoqiàn
+赔礼,péilǐ
+和蔼,hé'ǎi
+端正,duānzhèng
+诚信,chéngxìn
+做人,zuò rén
+留,liú
+磨灭,mómiè
+访问,fǎngwèn
+访,fǎng
+访问日程,fǎngwèn rìchéng
+行程表,xíngchéng biǎo
+表,biǎo
+消费品,xiāofèi pǐn
+消费者,xiāofèizhě
+革命,gémìng
+段,duàn
+一段话,yí duàn huà
+有意义,yǒu yìyì
+无意义,wú yìyì
+某种,mǒu zhǒng
+在某种意义上,zài mǒu zhǒng yìyì shàng
+下列,xiàliè
+列,liè
+例如,lìrú
+鲜,xiān
+造,zào
+错别字,cuòbiézì
+马来西亚,mǎláixīyà
+度假,dùjià
+虾,xiā
+龙虾,lóngxiā
+螃蟹,pángxiè
+帐,zhàng
+账,zhàng
+账单,zhàngdān
+换成,huànchéng
+谈论,tánlùn
+净水,jìngshuǐ
+净水器,jìngshuǐqì
+净化,jìnghuà
+自来水,zìláishuǐ
+直接,zhíjiē
+饮,yǐn
+饮用,yǐnyòng
+饮水,yǐnshuǐ
+报价单,bàojiàdān
+圣诞节,shèngdànjié
+乐意,lèyì
+传递,chuándì
+不免,bùmiǎn
+免,miǎn
+兔,tù
+一万,yíwàn
+辈,bèi
